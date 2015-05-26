@@ -1,10 +1,15 @@
-Como destacar parte de um texto, com *itálico* ou **negrito**.
-pode-se também destacar um texto com fonte ``monoespaçada``.
+Caracteristicas dos SO *Windows* e **Linux**.
+no Linux o  ``Terminal``é muito importante.
 
-Percebe-se, então, que :
+Distribuições Linux :
 
-    * Negrito: cerca-se o texto com asterisco (*).
-    * Negrito: cerca-se o texto com dois asterisco (**).
-    * Fonte monoespaçada: cerca-se o texto com duas crases (`` ``).
+    * *Debian* (*).
+    * **Fedora** (**).
+    * ``Ubuntu`` (`` ``).
     
-fonte monoespaçada é útil para comandos ou linhas de código.
+..A fonte monoespaçada é útil para comandos ou linhas de código.
+
+
+   * Inicie uma lista com asterisco (*)
+   * Digite espaço
+   * Digite o Texto que vai aparecer neste item da lista.
